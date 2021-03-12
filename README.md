@@ -1,4 +1,2 @@
-# MemRem
-
-A new Flutter application.
-
+flutter 
+sosyal medya uygulamam
